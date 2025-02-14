@@ -1,90 +1,63 @@
-# 🌟 Welcome to My GitHub Universe! I'm Aarya Deep Jaiswal 🚀
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Aarya Deep Jaiswal 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=AaryaDeepJaiswal&color=ff69b4&label=PROFILE+VIEWS)
+### **MERN Stack Developer | Competitive Programmer | Problem Solver**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aarya-deep-jaiswal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-%23FF4088?style=flat&logo=google-chrome)](https://aaryadeep.me)
 
-## 👨‍💻 About Me
-Hey there! I'm **Aarya Deep Jaiswal**, a passionate **MERN Stack Developer** and **Competitive Programmer** with a knack for crafting impactful digital solutions. I thrive on solving complex problems and building scalable, efficient, and user-friendly applications. 
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/Aarya-Deep-Jaiswal/Aarya-Deep-Jaiswal/main/assets/dino.gif" width="100%">
 
-💡 **Always learning, always growing!** 💡
+## 🚀 **About Me**
+```diff
++ 🔥 Passionate about building scalable web apps & solving DSA challenges
++ 💡 4th-year CSE student at Siliguri Institute of Technology
++ 🎯 Goal: Master full-stack development while contributing to open-source
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=console.log(%22Let's%20build%20something%20awesome!%22);System.out.println("Open%20for%20collaborations");print("Pythonic%20solutions%20🎯")" alt="Typing Animation"> </p>
+🛠️ Tech Arsenal
+<!-- Animated Tech Stack Grid --><div align="center">
+Frontend	Backend	Databases	Tools
+<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="Next.js"/> <img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"/>	<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/> <img src="https://img.icons8.com/nolan/48/express-js.png" title="Express.js"/> <img src="https://img.icons8.com/fluency/48/000000/api.png" title="REST API"/>	<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/> <img src="https://img.icons8.com/color/48/000000/mysql.png" title="MySQL"/>	<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
+</div>
+🏆 GitHub Trophies
+Trophies
 
----
+🚀 Featured Projects
+<details> <summary><b>💬 Real-Time Chat App</b> (Click to expand!)</summary>
+Tech: MERN Stack + Socket.IO
+Features:
+✓ Real-time messaging
+✓ JWT authentication
+✓ Theme customization
+✓ Image sharing
+Links: GitHub | Live Demo
 
-## 🛠️ Tech Stack & Skills
+Chat App Preview
 
-### **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+</details><details> <summary><b>🏨 Wanderlust Hotel Booking</b> (Click to explore!)</summary>
+Tech: React + Node.js + Mapbox API
+Features:
+✓ Location-based search
+✓ Booking management
+✓ Interactive maps
+✓ Responsive UI
+Links: GitHub | Live Demo
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-1C1C1C?style=flat&logo=zustand&logoColor=white)
+Hotel Booking Preview
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+</details>
+📊 Coding Journey
+<!-- GitHub Stats with Glow Effect --><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aarya-Deep-Jaiswal&show_icons=true&theme=radical&border_color=ff69b4" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Deep-Jaiswal&theme=radical&border=ff69b4" width="48%"> </div><!-- LeetCode Stats -->
+LeetCode Stats
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+🎓 Education & Achievements
+diff
+Copy
++ 🏫 B.Tech in CSE @ Siliguri Institute of Technology (CGPA: 8.5)
++ 🏆 Level 6 Coder @ Coding Ninjas
++ ✅ 250+ DSA Problems Solved
++ 📜 MERN Stack Certification (Apna College)
+🌟 Let's Collaborate!
+<!-- Animated Social Links --><p align="center"> <a href="mailto:aaryadeep.official@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"> </a> <a href="https://linkedin.com/in/aarya-deep-jaiswal"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"> </a> <a href="https://leetcode.com/u/DfTruJbCdT/"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"> </a> </p><!-- Floating Animation --><img align="right" src="https://raw.githubusercontent.com/Aarya-Deep-Jaiswal/Aarya-Deep-Jaiswal/main/assets/rocket.gif" width="200">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aarya-Deep-Jaiswal&color=ff69b4&label=PROFILE+VISITORS" alt="Profile Views"> </p>
+⭐️ Fun Fact: When I'm not coding, you'll find me exploring new tech blogs or jamming to LoFi beats!
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💬 **Real-Time Chat Application**  
-📌 A **MERN Stack** chat app with real-time messaging powered by **Socket.IO**  
-✅ Secure JWT authentication | ✅ Online status tracking  
-✅ Theme customization | ✅ Image sharing  
-🔗 [GitHub Repo](https://github.com/Aarya-Deep-Jaiswal/Chat-App) | [Live Demo](https://chat-app-lkot.onrender.com/)
-
-### 🏨 **Wanderlust - Hotel Booking Platform**  
-📌 Full-stack hotel booking system with **Mapbox API** integration  
-✅ Location-based search | ✅ Booking management  
-✅ Optimized UI/UX | ✅ Responsive design  
-🔗 [GitHub Repo](https://github.com/Aarya-Deep-Jaiswal/Wanderlust) | [Live Demo](https://wanderlust-qy1e.onrender.com/)
-
----
-
-## 🏆 Achievements
-- 🏅 **Level 6 Coder** @ Coding Ninjas  
-- 📜 **MERN Stack Certification** (Apna College)  
-- 👨‍💻 **250+ DSA Problems** solved on LeetCode/CodeStudio  
-- 🎓 **Web Development Intern** @ CodSoft  
-
----
-
-## 📊 GitHub Stats
-
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Deep-Jaiswal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Deep-Jaiswal&layout=compact&theme=tokyonight)
-
----
-
-## 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-deep-jaiswal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aarya-Deep-Jaiswal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryadeep.official@gmail.com)
-
-**🚀 Open to collaborations, internships, and innovative projects!**  
-**Let's turn ideas into reality!** ✨
-
----
-
-⭐️ From [Aarya Deep Jaiswal](https://github.com/Aarya-Deep-Jaiswal)
