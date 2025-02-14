@@ -71,9 +71,9 @@ Hey there! I'm **Aarya Deep Jaiswal**, a passionate **MERN Stack Developer** and
 
 ## 📊 GitHub Stats
 
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryaDeepJaiswal&show_icons=true&theme=tokyonight)
+![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Deep-Jaiswal&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaDeepJaiswal&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Deep-Jaiswal&layout=compact&theme=tokyonight)
 
 ---
 
