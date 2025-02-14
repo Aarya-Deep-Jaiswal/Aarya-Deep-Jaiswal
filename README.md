@@ -20,4 +20,4 @@ Frontend	Backend	Databases	Tools
 <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png" title="Next.js"/> <img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"/>	<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/> <img src="https://img.icons8.com/nolan/48/express-js.png" title="Express.js"/> <img src="https://img.icons8.com/fluency/48/000000/api.png" title="REST API"/>	<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/> <img src="https://img.icons8.com/color/48/000000/mysql.png" title="MySQL"/>	<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aarya-Deep-Jaiswal&color=ff69b4&label=PROFILE+VISITORS" alt="Profile Views"> </p>
+<p align="center"> <img src=(https://komarev.com/ghpvc/?username=Aarya-Deep-Jaiswal&color=ff69b4&label=PROFILE+VISITORS) alt="Profile Views"> </p>
