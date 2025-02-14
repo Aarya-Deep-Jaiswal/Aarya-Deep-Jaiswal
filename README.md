@@ -87,4 +87,4 @@ Hey there! I'm **Aarya Deep Jaiswal**, a passionate **MERN Stack Developer** and
 
 ---
 
-⭐️ From [Aarya Deep Jaiswal](https://github.com/AaryaDeepJaiswal)
+⭐️ From [Aarya Deep Jaiswal](https://github.com/Aarya-Deep-Jaiswal)
