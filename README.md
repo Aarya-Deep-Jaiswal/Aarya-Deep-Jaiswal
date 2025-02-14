@@ -78,8 +78,8 @@ Hey there! I'm **Aarya Deep Jaiswal**, a passionate **MERN Stack Developer** and
 ---
 
 ## 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryadeepjaiswal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaDeepJaiswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-deep-jaiswal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aarya-Deep-Jaiswal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryadeep.official@gmail.com)
 
 **🚀 Open to collaborations, internships, and innovative projects!**  
