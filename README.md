@@ -2,7 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AaryaDeepJaiswal&color=ff69b4&label=PROFILE+VIEWS)
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212772329-6d3f38d3-4fcb-414e-93b3-1dc9cda04cd9.gif" width="250px">
+</p>
 
 ---
 
