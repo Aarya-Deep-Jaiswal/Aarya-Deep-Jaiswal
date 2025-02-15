@@ -2,7 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AaryaDeepJaiswal&color=ff69b4&label=PROFILE+VIEWS)
 
-<img src="https://user-images.githubusercontent.com/74038190/212772329-6d3f38d3-4fcb-414e-93b3-1dc9cda04cd9.gif" width="500px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/main/assets/dev.gif" width="250px">
+</p>
+
 
 ---
 
