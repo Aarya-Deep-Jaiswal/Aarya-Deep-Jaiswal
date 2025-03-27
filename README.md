@@ -66,8 +66,8 @@ Hey there! I'm **Aarya Deep Jaiswal**, a passionate **MERN Stack Developer** and
 
 ## 🚀 Featured Projects
 
-### 🏨 **SaaS-based online IDE**  
-📌 write, execute, and share code across multiple **programming languages**.
+### 🗨️ **SaaS-based online IDE**  
+📌 write, execute, and share code across multiple **programming languages**
 🔗 [GitHub Repo](https://github.com/Aarya-Deep-Jaiswal/Code-Craft) | [Live Demo](https://code-craft-alpha-gold.vercel.app)
 
 ### 💬 **Real-Time Chat Application**  
