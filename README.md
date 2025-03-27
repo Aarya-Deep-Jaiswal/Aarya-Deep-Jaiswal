@@ -65,13 +65,14 @@ Hey there! I'm **Aarya Deep Jaiswal**, a passionate **MERN Stack Developer** and
 ---
 
 ## 🚀 Featured Projects
+
+### 🏨 **SaaS-based online IDE**  
+📌 write, execute, and share code across multiple **programming languages**.
+🔗 [GitHub Repo](https://github.com/Aarya-Deep-Jaiswal/Code-Craft) | [Live Demo](https://code-craft-alpha-gold.vercel.app)
+
 ### 💬 **Real-Time Chat Application**  
 📌 A **MERN Stack** chat app with real-time messaging powered by **Socket.IO**  
 🔗 [GitHub Repo](https://github.com/Aarya-Deep-Jaiswal/Chat-App) | [Live Demo](https://chat-app-lkot.onrender.com/)
-
-### 🏨 **Wanderlust - Hotel Booking Platform**  
-📌 Full-stack hotel booking system with **Mapbox API** integration  
-🔗 [GitHub Repo](https://github.com/Aarya-Deep-Jaiswal/Wanderlust) | [Live Demo](https://wanderlust-qy1e.onrender.com/)
 
 ---
 
